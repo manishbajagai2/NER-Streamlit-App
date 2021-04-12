@@ -5,3 +5,4 @@ spacy-streamlit
 datetime
 sumy
 spacy>=0.8.1
+en_core_web_sm
