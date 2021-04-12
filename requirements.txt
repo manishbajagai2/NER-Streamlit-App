@@ -1,0 +1,7 @@
+wikipedia
+wikipedia-api
+streamlit>=0.80.0
+spacy-streamlit
+datetime
+sumy
+spacy>=0.8.1
