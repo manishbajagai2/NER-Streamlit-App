@@ -1,7 +1,7 @@
 # NER-Streamlit-App
 
 This is a web based app in which one can visualize the output of the result of Name Entity Recognition. There can two inputs to the app - 
-1. Provding a keyword search or any search of choice in the main page, where results are fetched automatically from the wikipedia.
+1. Providing a keyword search or any search of choice in the main page, where results are fetched automatically from the wikipedia.
 2. Providing a sentence in the input box manually to visualize the output diagramatically
 
 ## How to run the app
